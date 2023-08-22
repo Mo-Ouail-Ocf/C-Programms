@@ -1,0 +1,22 @@
+digraph BST {
+    node [shape=circle];
+10 -> 9 [dir=none];
+10 -> 178 [dir=none];
+178 -> 163 [dir=none];
+178 -> 187 [dir=none];
+163 -> 118 [dir=none];
+163 -> 171 [dir=none];
+118 -> 20 [dir=none];
+118 -> 126 [dir=none];
+20 -> 11 [dir=none];
+20 -> 36 [dir=none];
+36 -> 65 [dir=none];
+65 -> 92 [dir=none];
+126 -> 156 [dir=none];
+156 -> 155 [dir=none];
+156 -> 162 [dir=none];
+155 -> 145 [dir=none];
+171 -> 175 [dir=none];
+175 -> 172 [dir=none];
+187 -> 186 [dir=none];
+}
